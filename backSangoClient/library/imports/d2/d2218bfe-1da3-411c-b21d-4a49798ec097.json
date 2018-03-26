@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ziyuan_jinbi",
+    "texture": "21d3474e-d9db-4b9f-8416-b2a249e18372",
+    "atlas": "",
+    "rect": [
+      12,
+      13,
+      44,
+      43
+    ],
+    "offset": [
+      1.5,
+      -3
+    ],
+    "originalSize": [
+      65,
+      63
+    ]
+  }
+}

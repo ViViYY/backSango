@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nongtian",
+    "texture": "9a4ffb42-3dc7-4f95-94b0-4ca22e9b591d",
+    "atlas": "",
+    "rect": [
+      0,
+      8,
+      126,
+      86
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      126,
+      98
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yizhan",
+    "texture": "bc3d3295-641a-473d-a48a-f4d1643d59f5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      144,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      144,
+      95
+    ]
+  }
+}

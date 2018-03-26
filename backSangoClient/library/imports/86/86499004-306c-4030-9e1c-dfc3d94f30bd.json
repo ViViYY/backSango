@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ziyuan_liangshi",
+    "texture": "9a581d01-05fd-48bb-b612-99c89626c588",
+    "atlas": "",
+    "rect": [
+      1,
+      6,
+      62,
+      55
+    ],
+    "offset": [
+      -0.5,
+      -2
+    ],
+    "originalSize": [
+      65,
+      63
+    ]
+  }
+}

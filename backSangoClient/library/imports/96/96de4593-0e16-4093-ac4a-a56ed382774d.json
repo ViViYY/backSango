@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dijiao",
+    "texture": "03ca0feb-3b1f-4ed4-a735-7f15d35f8f60",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      108,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      108,
+      66
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ziyuan_tiekuang",
+    "texture": "3da54bd5-b53e-4ad1-9f9d-db56a834e08f",
+    "atlas": "",
+    "rect": [
+      9,
+      9,
+      48,
+      48
+    ],
+    "offset": [
+      0.5,
+      -1.5
+    ],
+    "originalSize": [
+      65,
+      63
+    ]
+  }
+}

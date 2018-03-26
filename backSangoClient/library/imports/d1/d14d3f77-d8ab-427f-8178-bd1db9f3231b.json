@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ziyuan_mucai",
+    "texture": "a48c528c-9ef9-4ea5-b3ff-5e8d6f1daf87",
+    "atlas": "",
+    "rect": [
+      8,
+      16,
+      52,
+      42
+    ],
+    "offset": [
+      1.5,
+      -5.5
+    ],
+    "originalSize": [
+      65,
+      63
+    ]
+  }
+}

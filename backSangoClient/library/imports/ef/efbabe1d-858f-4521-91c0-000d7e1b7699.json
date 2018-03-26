@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "binqipu",
+    "texture": "0eecbbcd-c9c3-4cc7-afaf-fb37b61f3ffb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      124,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      85
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jianzaosi",
+    "texture": "0d0f9254-768a-44aa-9dd6-c9154716cf2f",
+    "atlas": "",
+    "rect": [
+      19,
+      9,
+      116,
+      97
+    ],
+    "offset": [
+      2,
+      -0.5
+    ],
+    "originalSize": [
+      150,
+      114
+    ]
+  }
+}

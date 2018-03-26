@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_back_1",
+    "texture": "b8d1827a-efdb-4ea1-b132-bea5a1783904",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      150,
+      150
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

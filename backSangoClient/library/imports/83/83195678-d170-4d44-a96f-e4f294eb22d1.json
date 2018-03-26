@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiangwan",
+    "texture": "abd28085-4425-481e-ab88-db95028ba20e",
+    "atlas": "816e3b75-3b30-4d36-9dc0-87fa2ac6f353",
+    "rect": [
+      1930,
+      612,
+      100,
+      150
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      150
+    ]
+  }
+}
